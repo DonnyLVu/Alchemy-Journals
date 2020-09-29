@@ -1,0 +1,3 @@
+# today i learned more about booleans, more speciffically yes and or no answers to a true or false question quiz that was our lab.
+We had to use exporting and importing of a function that checked if the answer had some form of a letter, in my case a cappital Y.
+the event listener was listening for a click of the button to start everything in which it would send a alert with questions randing from name, if you want confirmation, protagonist of story, door material and how it ended. Sep 28 Mon 2020
