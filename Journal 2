@@ -1,1 +1,5 @@
 Refactoring WET code means NOTICING and ABSTRACTING what the pieces have IN COMMON then ISOLATING THE DIFFERENCES.-Bryana Kitchen,1) Make a repo 1) Clone it locally 1) `npx create-alchemy-bootstrap .` 1) Make a `dev` branch 1) `git checkout -b dev` 1) commit some changes 1) `git push origin dev` 1) Make a pr to master on GitHub (compare and pull request button) 1) Do not merge!!! 1) Submit link to PR in canvas - David, 
+
+Some quotes from chat today
+
+Today was about the random number so we could guess the value and if we were higher or lower than what the computer came up with. It took about 6 or so hours without me doing and css. Note to self: PRACTICE MORE CSS.
