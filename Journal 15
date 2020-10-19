@@ -1,0 +1,1 @@
+Today we had a decently long planning of our Octogotchi game. The base load out seems somewhat doable and might involve some animation but on the javascript I wonder what code would need to be done for it to actually function like we want it to, maybe a global variable that goes down every x seconds for the health and food bar.
