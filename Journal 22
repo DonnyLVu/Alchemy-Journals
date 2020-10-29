@@ -1,0 +1,11 @@
+What went well, that I might forget if I don’t write down?
+The search function works but the filter doesn't.What did I learn today?how app.js is where you should have your states.
+
+What should I do differently next time?
+Focus on one aspect of it and continue doing so till I need other stuff to complete the first thing.
+
+What still puzzles me, or what do I need to learn more about?
+The formatting of moving the states into app instead of ImageList and ImageItem, It does the same stuff but for some reason a little harder to do.
+
+Is the assignment complete? If not, where exactly did you leave off, and what work remains?
+No, i need to make filters filter out the pokemon. However search bar works but is very case sensitive. Also need to make it look better (css)
