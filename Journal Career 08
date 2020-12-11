@@ -1,0 +1,3 @@
+
+
+Today i kept my models simpler, Instead of many things like name, location, genre, types i kept it simple which surprisingly made it easier to keep in track of all the different things and how they connected with each other. App.test.js is where i get the final restaurant tested with the joins and everything in it. Restaurant.test.js had the old test code in it before i did the joins. At the end the joined get id thing produced the location data that was expected Andrew came in and helped me solve the mystery of menus not printing out while location did, the answer was that i forgot to add the , menus: rows[0].menus } on line 50 in restaurants.js.
